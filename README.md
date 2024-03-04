@@ -18,19 +18,16 @@ useful life (RUL).
 **Linear Regression**:
 
 Mean Squared Error: 0.000224
-
 R-squared: 0.9768
 
 **Decision Tree Regressor:**
 
 Mean Squared Error: 5.79e-30
-
 R-squared: 1.0
 
 **Random Forest Regressor:**
 
 Mean Squared Error: 1.23e-09
-
 R-squared: 0.99999987
 
 2\. Ensemble Techniques:
@@ -38,13 +35,11 @@ R-squared: 0.99999987
 **Bagging with Random Forest:**
 
 Mean Squared Error: 1.08e-11
-
 R-squared: 0.999999999
 
 **Boosting with Gradient Boosting:**
 
 Mean Squared Error: 3.02e-06
-
 R-squared: 0.9997
 
 **<u>Observations:</u>**
